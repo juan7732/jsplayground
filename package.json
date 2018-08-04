@@ -1,9 +1,0 @@
-{
-  "dependencies": {
-    "express": "^4.16.3"
-  },
-  "repository": {
-    "type" : "git",
-    "url" : "git://github.com/juan7732/jsplayground"
-  }
-}
